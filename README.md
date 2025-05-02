@@ -1,4 +1,4 @@
-# vehicle_speed_and_number_plate_detection
+# Vehicle Speed and Number Plate Detection System
 
 Hey there! To get this project running follow the following steps:
 1. Open the database_script.sql file in MySQL
