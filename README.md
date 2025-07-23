@@ -19,4 +19,4 @@ For number plate recognition, the system employs a custom YOLOv8 model for local
 
 ![Image](https://github.com/user-attachments/assets/70fa589d-3d9f-4bf3-b9e2-8539ca1db606)
 
-For any further suggestions or queries, mail me at: krishnaldeshmukh@gmail.com
+For any further suggestions or queries, mail me at: ishwariidalgave24@gmail.com
